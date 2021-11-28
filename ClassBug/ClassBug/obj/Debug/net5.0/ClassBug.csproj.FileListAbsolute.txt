@@ -1,0 +1,16 @@
+G:\Study\Exadel\HW1\ClassBug\ClassBug\bin\Debug\net5.0\ClassBug.exe
+G:\Study\Exadel\HW1\ClassBug\ClassBug\bin\Debug\net5.0\ClassBug.deps.json
+G:\Study\Exadel\HW1\ClassBug\ClassBug\bin\Debug\net5.0\ClassBug.runtimeconfig.json
+G:\Study\Exadel\HW1\ClassBug\ClassBug\bin\Debug\net5.0\ClassBug.runtimeconfig.dev.json
+G:\Study\Exadel\HW1\ClassBug\ClassBug\bin\Debug\net5.0\ClassBug.dll
+G:\Study\Exadel\HW1\ClassBug\ClassBug\bin\Debug\net5.0\ref\ClassBug.dll
+G:\Study\Exadel\HW1\ClassBug\ClassBug\bin\Debug\net5.0\ClassBug.pdb
+G:\Study\Exadel\HW1\ClassBug\ClassBug\obj\Debug\net5.0\ClassBug.csproj.AssemblyReference.cache
+G:\Study\Exadel\HW1\ClassBug\ClassBug\obj\Debug\net5.0\ClassBug.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\Exadel\HW1\ClassBug\ClassBug\obj\Debug\net5.0\ClassBug.AssemblyInfoInputs.cache
+G:\Study\Exadel\HW1\ClassBug\ClassBug\obj\Debug\net5.0\ClassBug.AssemblyInfo.cs
+G:\Study\Exadel\HW1\ClassBug\ClassBug\obj\Debug\net5.0\ClassBug.csproj.CoreCompileInputs.cache
+G:\Study\Exadel\HW1\ClassBug\ClassBug\obj\Debug\net5.0\ClassBug.dll
+G:\Study\Exadel\HW1\ClassBug\ClassBug\obj\Debug\net5.0\ref\ClassBug.dll
+G:\Study\Exadel\HW1\ClassBug\ClassBug\obj\Debug\net5.0\ClassBug.pdb
+G:\Study\Exadel\HW1\ClassBug\ClassBug\obj\Debug\net5.0\ClassBug.genruntimeconfig.cache

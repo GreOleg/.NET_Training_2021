@@ -1,0 +1,16 @@
+G:\Study\Exadel\HW1\SortArray\SortArray\bin\Debug\net5.0\SortArray.exe
+G:\Study\Exadel\HW1\SortArray\SortArray\bin\Debug\net5.0\SortArray.deps.json
+G:\Study\Exadel\HW1\SortArray\SortArray\bin\Debug\net5.0\SortArray.runtimeconfig.json
+G:\Study\Exadel\HW1\SortArray\SortArray\bin\Debug\net5.0\SortArray.runtimeconfig.dev.json
+G:\Study\Exadel\HW1\SortArray\SortArray\bin\Debug\net5.0\SortArray.dll
+G:\Study\Exadel\HW1\SortArray\SortArray\bin\Debug\net5.0\ref\SortArray.dll
+G:\Study\Exadel\HW1\SortArray\SortArray\bin\Debug\net5.0\SortArray.pdb
+G:\Study\Exadel\HW1\SortArray\SortArray\obj\Debug\net5.0\SortArray.csproj.AssemblyReference.cache
+G:\Study\Exadel\HW1\SortArray\SortArray\obj\Debug\net5.0\SortArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\Exadel\HW1\SortArray\SortArray\obj\Debug\net5.0\SortArray.AssemblyInfoInputs.cache
+G:\Study\Exadel\HW1\SortArray\SortArray\obj\Debug\net5.0\SortArray.AssemblyInfo.cs
+G:\Study\Exadel\HW1\SortArray\SortArray\obj\Debug\net5.0\SortArray.csproj.CoreCompileInputs.cache
+G:\Study\Exadel\HW1\SortArray\SortArray\obj\Debug\net5.0\SortArray.dll
+G:\Study\Exadel\HW1\SortArray\SortArray\obj\Debug\net5.0\ref\SortArray.dll
+G:\Study\Exadel\HW1\SortArray\SortArray\obj\Debug\net5.0\SortArray.pdb
+G:\Study\Exadel\HW1\SortArray\SortArray\obj\Debug\net5.0\SortArray.genruntimeconfig.cache
